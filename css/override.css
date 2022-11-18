@@ -57,7 +57,7 @@ body{
   color:#ffffff;
 }
 
-.site-title .site-title:visited{
+.site-title, .site-title:visited{
   color:#ffffff;
 }
 
