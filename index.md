@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+I've started a blog in the year 2022. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Here's [my personal website](https://www.patwhealy.com).
