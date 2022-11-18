@@ -53,10 +53,22 @@ body{
   color:#ffffff;
 }
 
+.site-title .site-title:visited{
+  color:#ffffff;
+}
+
 .site-nav .page-link{
   color:#ff0000;
 }
 
 .page-link{
   color:#ff0000;
+}
+
+a {
+  color:#ff0000;
+}
+
+a:visited{
+  color:#aa0000;
 }
