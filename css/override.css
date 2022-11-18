@@ -49,10 +49,6 @@ body{
   color:#cccccc;
 }
 
-.page-content{
-  background-color:#555555;
-}
-
 .site-title{
   color:#ffffff;
 }
@@ -75,4 +71,13 @@ a {
 
 a:visited{
   color:#aa0000;
+}
+
+.site-header{
+  background-color:#555555;
+}
+
+.site-footer{
+  background-color:#555555;
+  color:#101010;
 }
