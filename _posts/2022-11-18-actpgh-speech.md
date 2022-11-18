@@ -1,6 +1,6 @@
 # ActPGH 9/26/22 Speech
 
-![group photo](https://github.com/PatHealy/pathealy.github.io/blob/main/img/actpgh_rally.jpg)
+![group photo](/img/actpgh_rally.jpg)
 
 The following is a speech I gave at [this rally](https://technical.ly/civic-news/protest-carnegie-mellon-university-pittsburgh-ban-facial-recognition-technology/) on September 26th, 2022.
 
