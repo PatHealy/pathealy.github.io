@@ -53,6 +53,10 @@ body{
   color:#ffffff;
 }
 
-.site-nav{
-  color:#aa0000;
+.site-nav .page-link{
+  color:#ff0000;
+}
+
+.page-link{
+  color:#ff0000;
 }
